@@ -1,3 +1,13 @@
+body {
+  background-color: #faf1bf;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #e1bf12;
+}
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
